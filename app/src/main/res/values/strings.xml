@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">bagzz</string>
+
+    <string name="ad_1_text">This season\'s latest</string>
+    <string name="ad_2_text">Last season\'s latest</string>
+    <string name="ad_3_text">This is best bag</string>
+    <string name="ad_4_text">This is season\'s bag</string>
+
+    <string name="bag_1_text">Artsy</string>
+    <string name="bag_2_text">Berkely</string>
+    <string name="bag_3_text">Capucinus</string>
+    <string name="bag_4_text">Monogram</string>
+
+    <string name="section_1">""</string>
+    <string name="section_2">"Shop by categories"</string>
+
+    <string name="hyperlink_1">CHECK ALL LATEST</string>
+    <string name="hyperlink_2">BROWSE ALL CATEGORIES</string>
+</resources>
